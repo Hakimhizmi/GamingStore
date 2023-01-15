@@ -1,3 +1,7 @@
+# Gaming Store
+
+![shop](https://user-images.githubusercontent.com/45130772/212561143-197ebd2d-4c66-49fe-a034-fb11e9dfd545.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
